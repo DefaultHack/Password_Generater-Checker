@@ -41,17 +41,18 @@ Platform: Linux / Unix
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/password-project.git
+git clone https://github.com/DefaultHack/Password_Generater-Checker.git
+
 cd Password_Generater-Checker
 
 2️⃣ Compile C Programs
-Smart_password_generator.sh
-gcc password_checker.c -o checker
+Smart_password_generate.sh
+gcc password_checker.c 
 
 3️⃣ Run the Programs
 
 ▶ Generate Password
-./Smart_password_generater.sh
+./Smart_password_generate.sh
 
 ▶ Check Password Strength
 Password_checker.c
