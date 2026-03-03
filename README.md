@@ -41,7 +41,7 @@ Platform: Linux / Unix
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/DefaultHack/Password_Generater-Checker.git
+git clone https://github.com/DefaultHack/Password_Generator-Checker.git
 
 cd Password_Generator-Checker
 
